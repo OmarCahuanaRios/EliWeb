@@ -1,0 +1,115 @@
+.home__social-icon {
+    font-size: 1.25rem;
+    
+  }
+  
+  .home__social-icon:hover {
+    color: white;
+  }
+  .footer{
+    display: block;
+    height: 100px;
+    padding-top: 1.5%;
+  }
+.footercontainer{
+ 
+  
+  margin: auto;
+  padding-left: 30%;
+}
+.footercontainericons{
+ 
+  max-height: 20px;
+  max-width: 300px;
+  padding-left:7%;
+  
+  margin: auto;
+ 
+  
+}
+.iconosfooter:hover{
+  color: orange;
+}
+
+.padre{
+  
+  padding: 1em;
+  width: 100%;
+  margin: auto;
+  
+ 
+}
+
+.containerXD{
+  padding: 1em;
+  max-width:900px;
+ 
+  
+}
+.imagenes{
+  width:840px;
+  height: 700px;
+  border-radius: 3%;
+  border: 2px solid orange
+}
+.imagenes2{
+  
+  width: 840px;
+  height: 750px;
+  border-radius: 3%;
+  border: 2px solid orange
+}
+.imagenes3{
+  width: 840px;
+  height: 561px;
+  border-radius: 3%;
+  border: 2px solid orange
+}
+.imagenesKeratina{
+  width: 840px;
+  border-radius: 3%;
+  border: 2px solid orange
+
+}
+p{
+  padding: 1em;
+
+  font-family: 'Roboto', sans-serif;
+  font-size:1.5rem;
+}
+.titulos{
+  
+  font-size: 1.75rem;
+  margin-top: 10px;
+}
+.importante{
+  font-size: 1rem;
+  color:greenyellow
+}
+.importante2{
+  font-size: 0.9rem;
+  color: orange;
+}
+.subtitulos{
+  font-size: 1rem;
+  margin-top: 10px;
+}
+.avatar{
+  width:60px;
+  height: 60px;
+  margin-bottom: 10px;
+}
+.botonsitos{
+  background-color: gray;
+  margin-left: 43%;
+}
+.botonsitos:hover{
+  color: orange;
+}
+.titulo2{
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+  font-size: 2.5rem;
+  padding: 1em;
+}

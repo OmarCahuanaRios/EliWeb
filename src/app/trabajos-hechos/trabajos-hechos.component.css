@@ -1,0 +1,84 @@
+.footer{
+  display: block;
+  width: 100%;
+  
+  height: 100px;
+  padding-top: 1.5%;
+  background-size: cover;
+}
+.footercontainer{
+
+
+margin: auto;
+padding-left: 30%;
+}
+.footercontainericons{
+
+max-height: 20px;
+max-width: 300px;
+padding-left:7%;
+
+margin: auto;
+
+
+}
+.iconosfooter:hover{
+color: orange;
+}
+.titulo1{
+    padding: 1em;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5rem;
+    text-align: center;
+  }
+
+  .LaceadoPermanente{
+    height: 600px;
+    margin-left: 25%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border-radius: 3%;
+    border: 2px solid orange
+  }
+  .BotoxTratamiento{
+    height: 600px;
+    margin-left: 17%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border-radius: 3%;
+    border: 2px solid orange
+  }
+  .OndasRulos{
+    height: 600px;
+    margin-left: 17%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border-radius: 3%;
+    border: 2px solid orange
+
+  }
+  .titulo2{
+    padding: 1em;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.75rem;
+    text-align: center;
+    font-weight: bold;
+    color: #6e57e0;
+  }
+  
+
+  .containers{
+    background-color: black;
+    width: 700px;
+    border-radius: 10px;
+    margin: auto;
+    
+    
+  }
+  .descripcion{
+    padding: 1em;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.25rem;
+  }

@@ -1,0 +1,12 @@
+<mat-toolbar>
+    <img src="assets/mntalvo.png" alt="" style="width: 100px;">
+    <span>AESG</span>
+    <div class="spacer"></div>
+    <a  mat-button (click)="Inicio()" class="itemnav">Inicio</a>
+    <a  mat-button (click)="Trabajos()" class="itemnav">Mis Trabajos</a>
+    <a  mat-button (click)="Ofrezco()" class="itemnav">¿Qué ofrezco?</a>
+    <a  mat-button (click)="Contactame()" class="itemnav">Contáctame</a>
+    <i class="far fa-moon" *ngIf="color==false" (click)="Claro()"></i>
+    <i class="far fa-sun" *ngIf="color==true" (click)="Oscuro()"></i>
+            
+</mat-toolbar>

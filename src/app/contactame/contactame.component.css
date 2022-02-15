@@ -1,0 +1,74 @@
+.footer{
+    display: block;
+    height: 100px;
+    padding-top: 1.5%;
+  }
+.footercontainer{
+ 
+  
+  margin: auto;
+  padding-left: 30%;
+}
+.footercontainericons{
+ 
+  max-height: 20px;
+  max-width: 300px;
+  padding-left:7%;
+  
+  margin: auto;
+ 
+  
+}
+.iconosfooter:hover{
+  color: orange;
+}
+
+.contenedorPadre{
+  display: flex;
+  align-items: center;
+  padding: 3em;
+}
+.titulo2{
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+  font-size: 2rem;
+  padding: 1em;
+}
+.logos{
+  width: 100px;
+  height: 100px;
+  padding: 1em;
+
+}
+
+
+.cardsito{
+  padding: 1em;
+}
+
+.Clogos{
+  margin: auto;
+  border-radius: 5%;
+  
+  
+}
+
+.formsito{
+  margin: auto;
+  border-radius: 2%;
+  padding-bottom: 3%;
+  
+}
+
+.formsito2{
+
+  padding-left: 5%;
+  padding-top: 10%;
+  border-radius: 5px;
+  height: 630px;
+  
+}
+.botonsito:hover{
+  color:orange
+}
